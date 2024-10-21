@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/new-tab.png</file>
+    <file>icons/moon.png</file>
+    <file>icons/night.png</file>
+    <file>icons/stars.png</file>
+    <file>icons/sun.png</file>
+    <file>icons/sunrise.png</file>
+    <file>icons/cross.png</file>
+    <file>icons/clear-sky.png</file>
+    <file>icons/clouds.png</file>
+    <file>icons/cloudy-day.png</file>
+    <file>icons/heavy-rain.png</file>
+    <file>icons/minimize-sign.png</file>
+    <file>icons/sun.png</file>
+    <file>icons/thermometer.png</file>
+    <file>icons/uv.png</file>
+    <file>icons/wind.png</file>
+  </qresource>
+</RCC>
